@@ -27,6 +27,7 @@ else {
     document.querySelector("h1").innerHTML = "Draw! Roll Again";
 }
 
+//adding a button to do the refreshing so that users dont have to hit the Reload icons
 const refreshBtn = document.getElementById("btnRefresh");
 
 function handleClick() {

@@ -7,7 +7,6 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
@@ -37,7 +36,6 @@ footer {
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
-
 }
 
 button {
@@ -48,6 +46,5 @@ button {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
-
 }
 
