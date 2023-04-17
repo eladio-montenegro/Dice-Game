@@ -2,4 +2,4 @@
  
 ## A dice rolling game that you can play at the link below
 
-###https://eladio-montenegro.github.io/Dice-Game/
+##https://eladio-montenegro.github.io/Dice-Game/
